@@ -1,9 +1,5 @@
 {
   "projects": {
-    "default": "Justin-devfolio",
-    "hosting": "Justin-devfolio"
-  },
-  "targets": {},
-  "etags": {},
-  "dataconnectEmulatorConfig": {}
+    "default": "dev-folio-811bb"
+  }
 }
