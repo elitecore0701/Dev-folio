@@ -56,7 +56,6 @@ export const skillsData = [
   'Selenium',
   'Strapi',
   'Tensorflow',
-  'Webex',
   'Wordpress'
 ]
 

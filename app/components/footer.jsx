@@ -18,7 +18,7 @@ function Footer() {
             <Link
               target="_blank"
               href="https://github.com/git-dru"
-              className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
+              className="flex items-center gap-2 hover:text-[#16f2b3]"
             >
               <IoStar />
               <span>Star</span>
