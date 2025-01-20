@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "Justin-devfolio",
+    "hosting": "Justin-devfolio"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
